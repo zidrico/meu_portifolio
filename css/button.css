@@ -1,0 +1,14 @@
+.body-btn {
+    display: inline-flex;
+    justify-content: center;
+}
+
+.btn-menu {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: #222;
+    color: cornflowerblue;
+    border-bottom: 1px solid #C5CED5;
+    box-shadow: 0px 0px 10px cornflowerblue;
+}
